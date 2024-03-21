@@ -11,6 +11,10 @@
     "icon": "default",
     "runtime": "LUAJIT2.1",
     "framework": "love11.3",
-    "dependencies": {},
+    "dependencies": {
+        "Selene-Placeholder-Package-2": {
+            "latest": true
+        }
+    },
     "documentation": ""
 }
