@@ -1,0 +1,16 @@
+{
+    "name": "Placeholder-Package-4",
+    "author": {
+        "name": "qfx",
+        "github": "",
+        "email": ""
+    },
+    "license":"MIT",
+    "version": "0.0.1",
+    "description": "Another placeholder package3",
+    "icon": "default",
+    "runtime": "LUAJIT2.1",
+    "framework": "love11.3",
+    "dependencies": {},
+    "documentation": ""
+}
