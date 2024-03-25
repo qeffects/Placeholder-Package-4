@@ -9,12 +9,14 @@
     "version": "0.0.1",
     "description": "Another placeholder package3",
     "icon": "default",
-    "runtime": "LUAJIT2.1",
-    "framework": "love11.3",
+    "runtime": "*",
+    "frameworks": ["love11"],
     "dependencies": {
         "Selene-Placeholder-Package-2": {
             "latest": true
         }
     },
-    "documentation": ""
+    "documentation": "",
+    "website": "",
+    "github": ""
 }
